@@ -3,6 +3,16 @@ layout: page
 title: About
 ---
 
+
+Bere it's my about page.
+
+If you like ask so e queztion write to manuel2101p@ gmail.com
+
+**Have a nice day!
+
+
+___
+
 ![Here I am at the 2013 Rose Bowl.](/assets/stanford_rosebowl_photo_2013-e1361222975696-940x689.jpg)
 
 I am a Senior Data Scientist at [Twitter](http://twitter.com) working on
@@ -27,7 +37,6 @@ College](http://www.marlboro.edu/) in Vermont.  I wrote about my
 undergraduate research
 [here]({% post_url 2013-02-14-physics-marlboro-college-vermont %}), as
 well as my research during two undergraduate physics internships
-[here]({% post_url 2013-02-14-health-impact-solar-particle-events-sstorm %}), and
-[here]({% post_url 2013-02-12-simulating-deep-lens-survey-davis %}).
 
-If you like my website, you can follow me on twitter [@joshualande](https://twitter.com/joshualande).
+
+
