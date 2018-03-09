@@ -9,13 +9,13 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
+title:            Manuel P.
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+url:              http://manuelso.github.io
+shorturl:         manuelso.github.io
 
 author:
-  name:           'Joshua Lande'
+  name:           'Manuel P.'
   url:            https://twitter.com/joshualande
 
 paginate:         1
