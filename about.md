@@ -11,7 +11,8 @@ If you like ask so e queztion write to manuel2101p@ gmail.com
 **Have a nice day!
 
 
-___
+
+_
 
 ![Here I am at the 2013 Rose Bowl.](/assets/stanford_rosebowl_photo_2013-e1361222975696-940x689.jpg)
 
