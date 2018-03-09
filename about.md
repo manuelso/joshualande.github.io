@@ -4,11 +4,11 @@ title: About
 ---
 
 
-Bere it's my about page.
+Here it's my about page.
 
 If you like ask so e queztion write to manuel2101p@ gmail.com
 
-**Have a nice day!
+**Have a nice day!**
 
 
 
