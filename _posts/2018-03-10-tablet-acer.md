@@ -2,7 +2,7 @@
 layout: post
 title: My new acer tablet
 ---
-![tablet](https://pixabay.com/photo-572865/)
+![tablet](/images/201803105110_212951.png)
 
 I was using a netbook from the last 5 years. An Acer Aspire One. But the netbook was
 very noisy. I don't have a lot o money and I was thinking... If I only surf the web,
