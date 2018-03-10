@@ -2,16 +2,17 @@
 layout: post
 title: My new acer tablet
 ---
+![tablet](https://pixabay.com/photo-572865/)
 
 I was using a netbook from the last 5 years. An Acer Aspire One. But the netbook was
 very noisy. I don't have a lot o money and I was thinking... If I only surf the web,
- read some artile, watch some videos why I have to pay more money?
+ read some article, watch some videos why I have to pay more money?
  
- I shoped and Acer Aspie One Tablet 10". The cost was 169 euros. The tablet has a
+ I buyed and Acer Aspire One Tablet 10". The cost was 169 euros. The tablet has a
  otg port and I can connect a mouse, I can connect an usb keyboard, a pen drive.
  
  My screen netbook had a 10" screen that it's the same of my new tablet. I am using 
- my new tablet from one month ago and it's very confortable. Now I don't hear any noise. 
+ my new tablet from one month ago and it's very comfortable. Now I don't hear any noise. 
  I prefer listen relax music but not the fan of the computer.
  
  Some people think that it's a fool thing, but I can read email, browse, check my ideas with 
