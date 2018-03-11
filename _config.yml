@@ -3,7 +3,7 @@ markdown:         kramdown
 kramdown:
   extensions: ["tables"]
 
-highlighter:         rouge /* antes true */
+highlighter:     rouge
 
 # Permalinks
 permalink:        pretty
