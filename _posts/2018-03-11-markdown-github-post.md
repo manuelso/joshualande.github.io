@@ -15,7 +15,7 @@ I use **markdown**, that it's very simple
 - a word between **one** asterisc = italic.
 - a word between **two** asterisc = bold.
 - For **hyperlink** I only have to use ˋ[title](link)ˋ .
-- For a **image** the same that before but write ˋ|' at the first.
+- For a **image** the same that before but write ˋ|ˋ at the first.
 
 For title or leves I use one, two or therre ˋ#ˋ at the start of the line.
 
