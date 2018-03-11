@@ -8,8 +8,8 @@ For publish in *github* I only need to remember a few basics ideas.
 The **name of file** will be yyyy-mm-dd-name.md and I create a new file 
 from de web in the folder _post.
 
-At the top of the post I write tree '---' and the tags layout (post) and
-the title tag.
+At the top of the post I write **tree dashes** '---' and the tags **layout** (post) and
+the **title** tag and a new line wit another tree dashes.
 
 I use **markdown**, that it's very simple
 
