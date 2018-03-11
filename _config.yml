@@ -1,9 +1,9 @@
 # Dependencies
-markdown:         kramdown
-kramdown:
-  extensions: ["tables"]
-
-highlighter:     rouge
+# markdown:         kramdown
+# kramdown:
+#   extensions: ["tables"]
+# 
+# highlighter:     rouge
 
 # Permalinks
 permalink:        pretty
