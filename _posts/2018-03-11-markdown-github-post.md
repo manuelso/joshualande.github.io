@@ -1,7 +1,5 @@
 ---
-layout: post
 title: The basic for publish post in github with markdown
-permalink: /test
 ---
 
 For publish in *github* I only need to remember a few basics ideas.
