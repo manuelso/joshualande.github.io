@@ -2,7 +2,7 @@
 title: The basic for publish post in github with markdown
 ---
 
-For publish in *github* I only need to remember a few basics ideas.
+> For publish in *github* I only need to remember a few basics ideas.
 
 The **name of file** will be yyyy-mm-dd-name.md and I create a new file 
 from de web in the folder _post.
