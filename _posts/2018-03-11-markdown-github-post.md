@@ -19,6 +19,6 @@ I use **markdown**, that it's very simple
 
 For title or leves I use one, two or therre ˋ#ˋ at the start of the line.
 
-I made a folder in _post. I called images and I upload the images there.
+I made a folder in \_post. I called images and I upload the images there.
 Then, when I published I only need to write the path that is 
-ˋ/images/name-of-file.png
+ˋ/images/name-of-file.pngˋ.
