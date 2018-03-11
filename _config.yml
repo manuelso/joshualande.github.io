@@ -3,7 +3,7 @@ markdown:         kramdown
 kramdown:
   extensions: ["tables"]
 
-highlighter:         true
+highlighter:         false /* antes true */
 
 # Permalinks
 permalink:        pretty
@@ -16,7 +16,7 @@ shorturl:         manuelso.github.io
 
 author:
   name:           'Manuel P.'
-  url:            https://twitter.com/joshualande
+  url:            https://twitter.com/manuelso
 
 paginate:         1
 
