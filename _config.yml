@@ -11,8 +11,13 @@ permalink:        pretty
 # Setup
 title:            Manuel P.
 tagline:          'Minimalist, simplicity, learning, teaching, websites,...'
+baseurl:          "/blog_DA"
 url:              http://manuelso.github.io
 shorturl:         manuelso.github.io
+
+
+
+
 
 author:
   name:           'Manuel P.'
